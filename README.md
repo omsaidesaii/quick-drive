@@ -133,4 +133,4 @@ This project is open-source and free to use.
 **Omsai Desai**  
 📧 omsaidesai9@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/omsai-desai-a924a6300)  
-💻 [GitHub](https://github.com/omsaidesaii)
+💻 [GitHub](https://github.com/om8088)
